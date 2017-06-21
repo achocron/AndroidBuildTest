@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{701C562B-E46C-4FE1-A21E-BE8E68A39A1B}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AndroidBuildTest/App.xaml.cs">
+    <Files>
+      <File FileName="Droid/MainActivity.cs" Line="13" Column="13" />
+      <File FileName="AndroidBuildTest/App.xaml.cs" Line="13" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AndroidBuildTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2C30AC0C-09F5-47FF-8AD7-8237D66B0391" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
