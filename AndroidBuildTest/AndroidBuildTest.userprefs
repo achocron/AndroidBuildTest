@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{701C562B-E46C-4FE1-A21E-BE8E68A39A1B}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="AndroidBuildTest/App.xaml.cs">
     <Files>
       <File FileName="Droid/MainActivity.cs" Line="13" Column="13" />
-      <File FileName="AndroidBuildTest/App.xaml.cs" Line="13" Column="6" />
+      <File FileName="AndroidBuildTest/App.xaml.cs" Line="31" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

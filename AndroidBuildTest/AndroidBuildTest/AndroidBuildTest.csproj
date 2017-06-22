@@ -53,11 +53,11 @@
     <Reference Include="System.Runtime.InteropServices.RuntimeInformation">
       <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\netstandard1.1\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.Azure.Mobile">
-      <HintPath>..\packages\Microsoft.Azure.Mobile.0.13.1-r0004-7f158e8\lib\netstandard1.0\Microsoft.Azure.Mobile.dll</HintPath>
-    </Reference>
     <Reference Include="Microsoft.Azure.Mobile.Analytics">
       <HintPath>..\packages\Microsoft.Azure.Mobile.Analytics.0.13.1-r0004-7f158e8\lib\netstandard1.0\Microsoft.Azure.Mobile.Analytics.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Azure.Mobile">
+      <HintPath>..\packages\Microsoft.Azure.Mobile.0.13.1-r0006-8be1c30\lib\netstandard1.0\Microsoft.Azure.Mobile.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
