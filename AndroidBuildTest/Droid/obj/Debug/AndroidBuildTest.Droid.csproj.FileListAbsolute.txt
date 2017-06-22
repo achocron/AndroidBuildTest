@@ -41,3 +41,7 @@
 /Users/alcho-mac/AndroidBuildTest/AndroidBuildTest/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
 /Users/alcho-mac/AndroidBuildTest/AndroidBuildTest/Droid/obj/Debug/R.cs.flag
 /Users/alcho-mac/AndroidBuildTest/AndroidBuildTest/Droid/obj/Debug/uploadflags.txt
+/Users/alcho-mac/AndroidBuildTest/AndroidBuildTest/Droid/bin/Debug/FormsViewGroup.dll.mdb
+/Users/alcho-mac/AndroidBuildTest/AndroidBuildTest/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
+/Users/alcho-mac/AndroidBuildTest/AndroidBuildTest/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
+/Users/alcho-mac/AndroidBuildTest/AndroidBuildTest/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
