@@ -1,0 +1,16 @@
+androidtest.MainActivity, androidtest;md5cbdb984fc654fa29e55ee0f512a2ef08.MainActivity
+androidtest.MainActivity, androidtest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cbdb984fc654fa29e55ee0f512a2ef08.MainActivity
+androidtest.MainActivity;md5cbdb984fc654fa29e55ee0f512a2ef08.MainActivity
+androidtest.MainActivity;md5cbdb984fc654fa29e55ee0f512a2ef08.MainActivity
+Com.Microsoft.Azure.Mobile.Channel.IChannelGroupListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelGroupListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelGroupListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
+mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
+mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Utils.NetworkStateHelper/IListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Utils.NetworkStateHelper+IListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Utils.NetworkStateHelper.IListenerImplementor;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
+mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor

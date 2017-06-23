@@ -1,8 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars></Jars>
-  <ResolvedResourceDirectories />
-  <ResolvedAssetDirectories />
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/alcho-mac/AndroidBuildTest/androidtest/androidtest/obj/Debug/__library_projects__/Microsoft.Azure.Mobile.Android.Bindings/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/alcho-mac/AndroidBuildTest/androidtest/androidtest/obj/Debug/__library_projects__/Microsoft.Azure.Mobile/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Microsoft.Azure.Mobile.Android.Bindings/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/__library_projects__/Microsoft.Azure.Mobile/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
-  <ResolvedResourceDirectoryStamps />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/alcho-mac/AndroidBuildTest/androidtest/androidtest/obj/Debug/__library_projects__/Microsoft.Azure.Mobile.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/alcho-mac/AndroidBuildTest/androidtest/androidtest/obj/Debug/__library_projects__/Microsoft.Azure.Mobile.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
 </Paths>

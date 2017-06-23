@@ -1,8 +1,19 @@
 ﻿<Properties StartupConfiguration="{58B00C79-88B0-4A41-99E3-358C517BA5F3}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
-  <MonoDevelop.Ide.Workbench ActiveDocument="androidtest/MainActivity.cs">
-    <Files>
-      <File FileName="androidtest/MainActivity.cs" Line="16" Column="17" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="androidtest" expanded="True">
+            <Node name="androidtest" expanded="True">
+              <Node name="References" expanded="True">
+                <Node name="From Packages" expanded="True" />
+              </Node>
+              <Node name="Packages" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
