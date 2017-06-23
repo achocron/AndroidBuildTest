@@ -1,7 +1,7 @@
-﻿<Properties StartupConfiguration="{58B00C79-88B0-4A41-99E3-358C517BA5F3}|Default">
+﻿<Properties StartupConfiguration="{58B00C79-88B0-4A41-99E3-358C517BA5F3}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
   <MonoDevelop.Ide.Workbench ActiveDocument="androidtest/MainActivity.cs">
     <Files>
-      <File FileName="androidtest/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="androidtest/MainActivity.cs" Line="16" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

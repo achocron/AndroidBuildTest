@@ -2,6 +2,8 @@
 using Android.Widget;
 using Android.OS;
 
+using Microsoft.Azure.Mobile;
+
 namespace androidtest
 {
     [Activity(Label = "androidtest", MainLauncher = true, Icon = "@mipmap/icon")]
@@ -11,6 +13,8 @@ namespace androidtest
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
+            MobileCenter.LogLevel = LogLevel.Verbose;
+            MobileCenter.Configure("test");
             base.OnCreate(savedInstanceState);
 
             // Set our view from the "main" layout resource
